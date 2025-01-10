@@ -1,4 +1,6 @@
-Install xampp and open it
+Install xampp to c drive and download the zip folder to the location of c/xampp/htdocs/...
+Extract the folder to the c/xampp/htdocs location
+Open the xampp
 Start both apache and mysql
 Open phpmysql by clicking admin button in mysql in xampp
 Import the mysql database to the phpmyadmin
